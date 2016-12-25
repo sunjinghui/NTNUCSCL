@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "127294015481",
+    "project_id": "ntnucscl-152117"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127294015481:android:75fe7b145be66e6b",
+        "android_client_info": {
+          "package_name": "com.dsmynas.filecooperation.ntnucscl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127294015481-51cb8dpemc760r0qoplgo89u30lhu02m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsmynas.filecooperation.ntnucscl",
+            "certificate_hash": "A74C480BA6A1B7650AC07D863C158682DC4A6168"
+          }
+        },
+        {
+          "client_id": "127294015481-0ai9pmo4576eamd6tsfurmbla91vgtpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6ISDjZNE3LBxOb4HRx0YWarGUdtwVwnw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
